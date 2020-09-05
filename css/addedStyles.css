@@ -2,26 +2,16 @@
 #footer {
   padding: 2% 15%;
   text-align: center;
-  background-color: #393b44;
+  background-color: #000;
 }
 
 .bottom-icon {
-  color: #000;
+  color: #fff;
   margin: 10px;
 }
 
 .bottom-icon:hover {
   color: #8f8f8f;
-}
-
-.copyright {
-  padding: 0;
-}
-
-.fas {
-  padding: 3%;
-  color: #ef8172;
-  font-size: 5rem;
 }
 
 .fas:hover {
