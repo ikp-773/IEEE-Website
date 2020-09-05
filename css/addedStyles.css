@@ -20,5 +20,10 @@
 }
 
 .footer-link{
-  color: #8f8f8f;
+  color: #4FABC1;
+}
+
+.footer-link:hover{
+  color: #EA3C56;
+  text-decoration: none;
 }
