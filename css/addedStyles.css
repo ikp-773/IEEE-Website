@@ -10,17 +10,12 @@
 
 /* Recent Events */
 
-.pad1{
-  padding-left: 10%;
-}
-
 .pad{
-   padding-left: 10%;
+  padding-bottom: 13px;
+padding-left: 10%
 }
 
-li{
-  padding-bottom: 3px;
-}
+
 #panel, #flip {
   padding: 5px;
   text-align: center;
