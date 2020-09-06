@@ -1,9 +1,9 @@
 /* Contact */
-#contact{
+#contact {
   background-image: url('../images/contactBG.gif');
 }
 
-.send{
+.send {
   font-family: 'Josefin Sans';
 }
 
@@ -24,26 +24,25 @@
   color: #8f8f8f;
 }
 
-
-.footer-link{
+.footer-link {
   color: #4FABC1;
 }
 
-.footer-link:hover{
+.footer-link:hover {
   color: #EA3C56;
   text-decoration: none;
 }
 
-
-
 @media (min-width:771px) {
-  .cr{
+  .cr {
     align-content: space-between;
-    }
-.spaceIcons{
-  padding-right: 30%;
-}
-.spaceCopyright{
-  padding-left: 20%;
-}
+  }
+
+  .spaceIcons {
+    padding-right: 30%;
+  }
+
+  .spaceCopyright {
+    padding-left: 20%;
+  }
 }
