@@ -11,11 +11,13 @@
 /* Recent Events */
 
 .pad{
-  padding-bottom: 13px;
-padding-left: 10%
+  padding-left: 10%;
+
 }
 
-
+li{
+  padding-bottom: 13px;
+}
 #panel, #flip {
   padding: 5px;
   text-align: center;
