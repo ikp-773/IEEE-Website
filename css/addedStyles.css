@@ -3,6 +3,9 @@
   background-image: url('../images/contactBG.gif');
 }
 
+.send{
+  font-family: 'Josefin Sans';
+}
 
 /* Footer */
 #footer {
