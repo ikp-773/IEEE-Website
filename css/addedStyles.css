@@ -33,8 +33,14 @@
 
 
 
-@media (min-width:1135px) {
+@media (min-width:771px) {
   .cr{
     align-content: space-between;
     }
+.spaceIcons{
+  padding-right: 30%;
+}
+.spaceCopyright{
+  padding-left: 20%;
+}
 }
