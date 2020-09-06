@@ -33,6 +33,12 @@
   text-decoration: none;
 }
 
+.backtop{
+  border-radius: 25px ;
+  height: 50px ;
+  width: 50px ;
+
+}
 @media (min-width:771px) {
   .cr {
     align-content: space-between;
