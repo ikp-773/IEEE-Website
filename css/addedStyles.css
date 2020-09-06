@@ -35,6 +35,6 @@
 
 @media (min-width:1135px) {
   .cr{
-    padding-left: 400px;
-  }
+    align-content: space-between;
+    }
 }
