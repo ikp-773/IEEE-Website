@@ -4,14 +4,42 @@
 }
 
 .moreInfo{
-  height: 20%;
   font-size: 1.2rem;
 
 }
+
+/* Recent Events */
+
+#recentEvents{
+
+}
+
+li{
+  padding-bottom: 3px;
+}
+#panel, #flip {
+  padding: 5px;
+  text-align: center;
+  background-color: #1D1B1B;
+
+}
+
+#panel {
+  padding: 50px;
+  display: none;
+}
+
 /* Upcoming Events */
 
 
+.upcoming{
+  background-color: #eaeaea;
+}
 
+.txtUpcomming{
+  color: #212121;
+  background-color: #212121;
+}
 
 /* Contact */
 #contact {
