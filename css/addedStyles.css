@@ -1,8 +1,13 @@
 /* Blog */
 .blogIcon{
-  height: 20px;
+  padding-bottom: 3%;
 }
 
+.moreInfo{
+  height: 20%;
+  font-size: 1.2rem;
+
+}
 /* Upcoming Events */
 
 
