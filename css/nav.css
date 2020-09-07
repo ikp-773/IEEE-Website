@@ -1,6 +1,14 @@
 /* Overlay style */
+#about{
+	background-image:url(https://wallpapersite.com/images/pages/pic_w/10954.jpg);
+}
 #nav{
 	width: 100%;
+}
+.card{
+
+	padding: 0%;
+	background-image: url(https://image.shutterstock.com/image-vector/grey-gradient-abstract-panoramic-background-260nw-519583930.jpg);
 }
 .overlay {
 	position: fixed;
