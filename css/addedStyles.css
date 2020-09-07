@@ -10,6 +10,9 @@
 
 /* Recent Events */
 
+#recentEvents{
+  background-image: url('../images/recentBG.gif');
+}
 .pad{
   padding-left: 10%;
 
