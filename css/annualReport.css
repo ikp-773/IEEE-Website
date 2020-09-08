@@ -1,12 +1,15 @@
 body{
   background-color: #343A40;
 }
-
+p{
+  color: #fff;
+  padding-bottom: 20px;
+}
 
 
 /* Navigation Bar */
 #title{
- background-color: #fff; 
+ background-color: #fff;
 }
 .navbar {
   padding-bottom: 1rem;
