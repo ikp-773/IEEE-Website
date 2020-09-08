@@ -1,13 +1,19 @@
-var totalReports= document.querySelectorAll('.flip').length;
+// var totalReports= document.querySelectorAll('.flip').length;
+//
+// for (var i = 0; i < totalReports; i++) {
+//   document.querySelectorAll(".flip")[i].addEventListener('click', handleClick);
+// }
+//
+// handleClick(){
+//   if (this.style.display === "none") {
+//    this.style.display = "block";
+//  } else {
+//    this.style.display = "none";
+//  }
+// }
 
-for (var i = 0; i < totalReports; i++) {
-  document.querySelectorAll(".flip")[i].addEventListener('click', handleClick);
-}
+$(".flip").on("click",function(){
+  $(".pallet .flip").slideToggle();
+});
 
-handleClick(){
-  if (this.style.display === "none") {
-   this.style.display = "block";
- } else {
-   this.style.display = "none";
- }
-}
+// $(".flip").slideToggle(speed,easing,callback)
