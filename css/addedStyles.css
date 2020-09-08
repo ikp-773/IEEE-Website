@@ -46,6 +46,15 @@ li{
 
 }
 
+/* Annual Report */
+#annualReport{
+  background-image: url('../images/annualReport.gif');
+}
+
+.report{
+
+}
+
 /* Contact */
 #contact {
   background-image: url('../images/contactBG.gif');
