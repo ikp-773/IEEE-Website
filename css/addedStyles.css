@@ -21,17 +21,6 @@
 li{
   padding-bottom: 13px;
 }
-#panel, #flip {
-  padding: 5px;
-  text-align: center;
-  background-color: #1D1B1B;
-
-}
-
-#panel {
-  padding: 50px;
-  display: none;
-}
 
 /* Upcoming Events */
 
