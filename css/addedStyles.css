@@ -49,11 +49,25 @@ li{
 /* Annual Report */
 #annualReport{
   background-image: url('../images/annualReport.gif');
+  backface-visibility: hidden;
 }
 
 .report{
+  padding-top: 15px;
 
 }
+
+.fullReport{
+  padding-top: 15px;
+  color: red;
+  text-decoration: none;
+}
+
+.fullReport:hover{
+
+  text-decoration: none;
+}
+
 
 /* Contact */
 #contact {
