@@ -37,9 +37,9 @@ li {
 p{
   padding-bottom: 20px;
 }
-.pannel{
-  padding-left: 10%;
-  right: 10%;
+#panel1{
+  display:none;
+
 }
 .report {
   padding-top: 15px;
