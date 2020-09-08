@@ -49,7 +49,7 @@ li{
 /* Annual Report */
 #annualReport{
   background-image: url('../images/annualReport.gif');
-  backface-visibility: hidden;
+
 }
 
 .report{
