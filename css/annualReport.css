@@ -5,6 +5,9 @@ body{
 
 
 /* Navigation Bar */
+#title{
+ background-color: #fff; 
+}
 .navbar {
   padding-bottom: 1rem;
 }
