@@ -1,3 +1,3 @@
-$('flip').on('click',function(){
+$('flip').on('click', function() {
   ('pannel').slideToggle('slow');
 });
