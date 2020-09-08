@@ -34,13 +34,14 @@ li {
   background-image: url('../images/annualReport.gif');
 }
 
-p{
+p {
   padding-bottom: 20px;
 }
-#panel1{
-  display:none;
 
+#panel1 {
+  display: none;
 }
+
 .report {
   padding-top: 15px;
 }
