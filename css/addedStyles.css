@@ -46,8 +46,9 @@ li{
 
 }
 
-.pannel{
-  background-color: #ffffff00;
+.pannel1,.pannel2,.pannel3{
+  background-color: #ffffff;
+  padding-top: 100px;
 }
 
 .fullReport{
