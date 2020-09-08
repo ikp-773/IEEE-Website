@@ -1,0 +1,21 @@
+#title {
+  background-color: #ff4c68;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding-bottom: 1rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+}
+
+.nav-item {
+  margin: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
