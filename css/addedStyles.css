@@ -46,6 +46,10 @@ li{
 
 }
 
+.pannel{
+  background-color: #ffffff00;
+}
+
 .fullReport{
   padding-top: 15px;
   color: red;
