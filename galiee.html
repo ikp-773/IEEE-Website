@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IEEE SOCIETY AND GALLERY</title>
     <link rel="stylesheet" media="screen and (max-width: 828px)" href="RES.css">
+    <link href="https://fonts.google.com/specimen/Cinzel?selection.family=Dancing+Script" rel="stylesheet">
 </head>
 <style>
     nav {
@@ -16,7 +17,15 @@
     #SOCIETY .box img {
         height: 200px;
         width: 300px;
-        /* align-content: center; */
+        padding-right: 5px;
+    
+    }
+    #SOCIETY .Cx{
+        display: flex;
+    } 
+    #SOCIETY .Dx{
+        display: flex;
+        flex-direction: column;
     }
     #navbar li a:hover {
         cursor: pointer;
@@ -41,24 +50,22 @@
         content: "";
         position:absolute;
         background: url('../IEEE/IKG/ING.jpg') no-repeat center center/cover;
-        height: 500%;
-        width: 100%;
+        height: 497%;
+        width: 99%;
         z-index:-1;
         opacity: 0.5;
     }
-    .box2 {
-       background-color:white ;
-     }
     #Ax{
          background-color: white;
          text-align: center;
      } 
-     #SOCIETY .Bx img{
-         align-content: center;
-     }
+    #SOCIETY .Bx img{
+        padding-right:5px;
+
     .h-primary{
     font-size:50px
     }
+
 </style>
 <body>
     <section id="home">
@@ -77,17 +84,19 @@
     <section id="SOCIETY">
         <h1 class="h-primary">Welcome to IEEE. There are six main societies in IEEE</h1>
         <h2 id="Ax">I.  About IEEE WIE</h2>
-        <img class="Bx" src="IGM/IGM1.jpg">
-        <p> IEEE Women in Engineering (WIE) is a global network of IEEE members and volunteers
+        <div class="Cx">
+        <div  class="Bx"><img src="IGM/IGM1.jpg"></div>
+        <div class="Dx"><p> IEEE Women in Engineering (WIE) is a global network of IEEE members and volunteers
             dedicated to promoting women engineers and scientists, and inspiring girls around
             he world to follow their academic interests in a career in engineering and science.
             IEEE is the world’s largest technical professional organization dedicated to advancing
-            technology for the benefit of humanity. </p>
+            technology for the benefit of humanity. 
         <h3>Mission & Vision of WIE</h3>
         <p>Our goal is to facilitate the recruitment and retention of women in technical
             disciplines globally. We envision a vibrant community of IEEE women and men
-            collectively using their diverse talents to innovate for the benefit of humanity. </p>
+            collectively using their diverse talents to innovate for the benefit of humanity. </p></div></div>
         <h2 id="Ax">II. SIGHT Society</h2>
+        <div class="Cx">
         <div class="box"><img src="IGM/IGM7.png"></div>
         <p>IEEE Special Interest Group on Humanitarian Technology (SIGHT) provides IEEE members
             with the opportunity to work with a large network of volunteers around the world
@@ -102,9 +111,9 @@
             and activities
             2) First notice of HAC and SIGHT funding opportunities (Calls for Proposals)
             3) Increased connectivity with the SIGHT Steering Committee (SSC), SIGHT staff, and the large
-            network of volunteers</p>
-
+            network of volunteers</p></div>
         <h2 id="Ax">III.    Engineering Medicine and Biology Society</h2>
+        <div class="Cx">
         <div class="box"><img src="IGM/IGM6.jpg"></div>
         <p>IEEE Engineering in Medicine and Biology Society (EMBS) is the world’s largest international
             society of biomedical engineers. The organization’s 10,000 members reside in some 97 countries
@@ -120,10 +129,10 @@
             Medicin e and Biology Society Technical Communities (TCs) are formed in targeted areas of
             biomedical engineering and include experts from academia, industry, and government. These TCs
             coordinate conferences, publications and member development within their area of expertise. We
-            welcome volunteers! </p>
-
+            welcome volunteers! </p></div>     
         <h2 id="Ax">IV. Signal Processing Society</h2>
-        <img class="Bx" src="IGM/IGM4.png">
+        <div class="Cx">
+        <div  class="Bx"><img src="IGM/IGM4.png"></div>
         <p class="box2"> Signal processing is the enabling technology for the generation, transformation, extraction,
             and interpretation of information. It comprises the theory, algorithms with associated
             architectures and implementations, and applications related to processing information contained
@@ -136,9 +145,10 @@
             membership option at a reduced rate for individuals who reside in developing countries. You will
             receive electronic/digital versions of your publications. Reduced fees such as unemployed, retired
             or minimum income are not available for the Essential package, but may be applied to the Preferred
-            package. </p>
+            package. </p></div>
         <h2 id="Ax">V.  Computer Society</h2>
-        <img class="Bx" src="IGM/IGM2.jpg">
+        <div class="Cx">
+        <div class="Bx"><img src="IGM/IGM2.jpg"></div>
         <p> In keeping with IEEE’s continued commitment to providing options to support the needs of all authors, IEEE
             is introducing an Open Journal for the IEEE Computer Society.
             We invite you to be among the first to have your article peer-reviewed and published in this new journal.
@@ -158,15 +168,16 @@
             Be among the first published in the IEEE Open Journal of the Computer Society:
             • Article Processing Charges (APC) discounts are available to IEEE members and Antennas and Propagation
             Society members.
-            • This journal is fully open and compliant with funder mandates, including Plan S. </p>
+            • This journal is fully open and compliant with funder mandates, including Plan S. </p></div>
         <h2 id="Ax">VI. Robotics and Automation Society</h2>
+        <div class="Cx">
         <div class="box"><img src="IGM/IGM3.jpg"></div>
         <p>The IEEE Robotics & Automation Society is a volunteer-driven society with over 15,000
             members around the world. The RAS society aims to support its members by fostering the
             advancement of innovation, education, and fundamental and applied research in robotics
             and automation. Being a member of RAS provides opportunities for the collaboration and
             exchange information with peers, communication of the latest technological developments,
-            and career development possibilities.</p>
+            and career development possibilities.</p></div>
     </section>
     <section id="GALLERY">
         <h1>MBCET IEEE’s GALLERY</h1>
