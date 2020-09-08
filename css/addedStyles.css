@@ -48,7 +48,11 @@ li{
 
 .pannel1,.pannel2,.pannel3{
   background-color: #ffffff;
-  padding-top: 100px;
+  /* padding-top: 100px; */
+}
+
+.yr{
+  padding-bottom: 2%;
 }
 
 .fullReport{
