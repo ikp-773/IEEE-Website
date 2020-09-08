@@ -1,71 +1,60 @@
 /* Blog */
-.blogIcon{
+.blogIcon {
   padding-bottom: 3%;
 }
 
-.moreInfo{
+.moreInfo {
   font-size: 1.2rem;
-
 }
 
 /* Recent Events */
-
-#recentEvents{
+#recentEvents {
   background-image: url('../images/recentBG.gif');
 }
-.pad{
-  padding-left: 10%;
 
+.pad {
+  padding-left: 10%;
 }
 
-li{
+li {
   padding-bottom: 13px;
 }
 
 /* Upcoming Events */
-
-
-.upcoming{
+.upcoming {
   background-color: #eaeaea;
 }
 
-.txtUpcomming{
-
+.txtUpcomming {
   color: #212121;
-
 }
 
 /* Annual Report */
-#annualReport{
+#annualReport {
   background-image: url('../images/annualReport.gif');
-
 }
 
-.report{
+p{
+  padding-bottom: 20px;
+}
+
+.report {
   padding-top: 15px;
-
 }
 
-.pannel1,.pannel2,.pannel3{
-  background-color: #ffffff;
-  /* padding-top: 100px; */
-}
-
-.yr{
+.yr {
   padding-bottom: 2%;
 }
 
-.fullReport{
+.fullReport {
   padding-top: 15px;
   color: red;
   text-decoration: none;
 }
 
-.fullReport:hover{
-
+.fullReport:hover {
   text-decoration: none;
 }
-
 
 /* Contact */
 #contact {
@@ -102,13 +91,12 @@ li{
   text-decoration: none;
 }
 
-.backtop{
-  border-radius: 25px ;
-  height: 50px ;
-  width: 50px ;
-
-
+.backtop {
+  border-radius: 25px;
+  height: 50px;
+  width: 50px;
 }
+
 @media (min-width:771px) {
   .cr {
     align-content: space-between;
