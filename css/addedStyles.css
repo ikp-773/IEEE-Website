@@ -42,6 +42,14 @@ p {
   display: none;
 }
 
+#panel2 {
+  display: none;
+}
+
+#panel3 {
+  display: none;
+}
+
 .report {
   padding-top: 15px;
 }
