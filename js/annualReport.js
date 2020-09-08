@@ -12,17 +12,19 @@
 //  }
 // }
 
-$(".flip1").on("click",function(){
-  $(".panel1 ").slideToggle();
+
+
+$("#flip1").on("click", function() {
+  $("#panel1 ").slideToggle();
 });
 
-$(".flip2").on("click",function(){
-  $(".panel2 ").slideToggle();
+$("#flip2").on("click", function() {
+  $("#panel2 ").slideToggle();
 });
 
 
-$(".flip3").on("click",function(){
-  $(".panel3 ").slideToggle();
+$("#flip3").on("click", function() {
+  $("#panel3 ").slideToggle();
 });
 
 
