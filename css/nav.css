@@ -9,8 +9,16 @@
 #logo a span {
     color: #fff;
 }
+.container
+{
+	width: 100%;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
   .logo h1 a{ 
-	    font-size: 24px;
+	    font-size: 18px;
     text-transform: uppercase;
     display: initial;
     margin: 0;
@@ -70,11 +78,11 @@ nav ul li ul li:hover {
 /* Background color change on Hover */
 
 nav a:hover {
-    color: #e44c65;
+    color: #21beda;
 }
 
 .menu li.active a {
-    color: #e44c65;
+    color: #21beda;
 }
 
 /* Hide Dropdowns by Default
