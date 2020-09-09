@@ -21,40 +21,22 @@
 li{
   padding-bottom: 13px;
 }
-#panel, #flip {
-  padding: 5px;
-  text-align: center;
-  background-color: #1D1B1B;
-
-}
-
-#panel {
-  padding: 50px;
-  display: none;
-}
-
-/* Upcoming Events */
-
 
 .upcoming{
   background-color: #eaeaea;
 }
 
 .txtUpcomming{
-
   color: #212121;
-
 }
 
 /* Annual Report */
 #annualReport{
   background-image: url('../images/annualReport.gif');
-
 }
 
 .report{
   padding-top: 15px;
-
 }
 
 .fullReport{
@@ -64,10 +46,8 @@ li{
 }
 
 .fullReport:hover{
-
   text-decoration: none;
 }
-
 
 /* Contact */
 #contact {
@@ -108,7 +88,6 @@ li{
   border-radius: 25px ;
   height: 50px ;
   width: 50px ;
-
 }
 @media (min-width:771px) {
   .cr {
