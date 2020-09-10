@@ -1,4 +1,5 @@
 /* Overlay style */
+
 #logo a {
     float: left;
     display: initial;
@@ -12,10 +13,6 @@
 .container
 {
 	width: 100%;
-	padding-left: 15px;
-	padding-right: 15px;
-	margin-left: auto;
-	margin-right: auto;
 }
   .logo h1 a{ 
 	    font-size: 18px;
@@ -29,7 +26,7 @@
 }
 nav.mnu{
     background: rgba(0, 0, 0, 0.62);
-	padding: 1.3em 2em;
+	
     border-radius: 8px;
 }
 /* Since we'll have the "ul li" "float:left"
@@ -144,10 +141,9 @@ li > a:only-child:after {
 @media all and (max-width: 768px) {
 
     #logo {
-        display: block;
+
         padding: 0;
-        width: 100%;
-        text-align: center;
+        width: 5%;
         float: none;
     }
 
@@ -169,10 +165,9 @@ li > a:only-child:after {
 	text-align: center;
 }
 #navbar{
-	position: absolute;
+	position: fixed;
 	z-index: 100;
 	width: 100%;
-	height: 5%;
 }
 .container-upcoming{
 
