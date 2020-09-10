@@ -33,12 +33,24 @@ li{
 /* Annual Report */
 #annualReport{
   background-image: url('../images/annualReport.gif');
+  padding-bottom: 0;
 }
 
-.report{
-  padding-top: 15px;
+#panel1, #panel2, #panel3{
+  display: none;
+  font-size: 1.8rem;
+  padding-right: 10%;
 }
-
+.spacing{
+  padding-left: 2%;
+  padding-bottom: 20px;
+}
+.annual{
+  background-image: url('../images/annualReport.gif');
+}
+.yr{
+  padding-bottom: 2%;
+}
 .fullReport{
   padding-top: 15px;
   color: red;
