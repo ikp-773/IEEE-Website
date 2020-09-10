@@ -154,7 +154,8 @@ li > a:only-child:after {
     /* Hide the navigation menu by default */
     /* Also hide the  */
     
-    }
+	}
+	
 #about{
 	background-image:url(https://wallpapersite.com/images/pages/pic_w/10954.jpg);
 }
@@ -174,7 +175,7 @@ li > a:only-child:after {
 }
 .container-upcoming{
 
-	background-color: :rgba(255, 255, 255, 0.01);
+	background-color: rgba(0, 0, 0, 0.123);
 }
 .card{
 
