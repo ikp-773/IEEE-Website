@@ -8,6 +8,10 @@
 
 }
 
+li{
+  align-self: flex-start;
+}
+
 /* Recent Events */
 
 #recentEvents{
