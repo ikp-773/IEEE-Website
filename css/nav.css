@@ -158,7 +158,9 @@ li > a:only-child:after {
 #about{
 	background-image:url(https://wallpapersite.com/images/pages/pic_w/10954.jpg);
 }
-
+#mivi{
+	background-image: url(https://render.fineartamerica.com/images/rendered/default/print/8/5.5/break/images/artworkimages/medium/2/dark-blue-grunge-background-caracterdesign.jpg);
+}
 #logo1{
 	width: 25%;
 }
