@@ -1,3 +1,7 @@
+#team{
+   background-image: url(../images/t.jpg);
+}
+
 .view-seventh img {
    -webkit-transition: all 0.5s ease-out;
    -moz-transition: all 0.5s ease-out;
@@ -264,7 +268,7 @@ ul{
 
 
 .our-webcoderskull{
- background: url("http://www.webcoderskull.com/img/right-sider-banner.png") no-repeat center top / cover;
+ background-image: url(../images/picc2.jpeg);
  
 }
 .our-webcoderskull .cnt-block{ 
