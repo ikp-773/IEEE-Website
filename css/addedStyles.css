@@ -39,9 +39,14 @@ li{
 }
 
 .recentPg{
+  font-size: 2rem;
   color: #eaeaea;
   text-align: right;
   padding: 5% 10% 0;
+}
+
+.pgRoute{
+  color: #eaeaea;
 }
 
 .txtUpcomming{
