@@ -42,11 +42,14 @@ li{
   font-size: 2rem;
   color: #eaeaea;
   text-align: right;
-  padding: 5% 10% 0;
+  padding: 0 10% ;
 }
 
 .pgRoute{
   color: #eaeaea;
+}
+.pg:hover{
+  color:
 }
 
 .txtUpcomming{
