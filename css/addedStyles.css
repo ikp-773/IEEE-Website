@@ -17,6 +17,10 @@ li{
 #recentEvents{
   background-image: url('../images/recentBG.gif');
 }
+
+.blog-w3layouts{
+  padding: 0;
+}
 .pad{
   padding-left: 10%;
 
