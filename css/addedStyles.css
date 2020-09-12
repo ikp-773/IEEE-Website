@@ -39,7 +39,7 @@ li{
 }
 
 .recentPg{
-  font-size: 2rem;
+  font-size: 3rem;
   color: #eaeaea;
   text-align: right;
   padding: 0 10% ;
@@ -48,8 +48,9 @@ li{
 .pgRoute{
   color: #eaeaea;
 }
-.pg:hover{
-  color:
+.pgRoute:hover{
+  color:#e23e57;
+  text-decoration: none;
 }
 
 .txtUpcomming{
