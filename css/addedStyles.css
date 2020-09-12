@@ -38,6 +38,12 @@ li{
   background-color: #eaeaea;
 }
 
+.recentPg{
+  color: #eaeaea;
+  text-align: right;
+  padding: 5% 10% 0;
+}
+
 .txtUpcomming{
   color: #212121;
 }
