@@ -273,11 +273,9 @@ ul{
 }
 .our-webcoderskull .cnt-block{ 
   float:left; 
-  width:100%; 
-  background:#fff; 
+  width:100%;  
   padding:30px 20px; 
-  text-align:center; 
-  border:2px solid #d5d5d5;
+  text-align:center;
   margin: 0 0 28px;
 }
 .our-webcoderskull .cnt-block figure{
