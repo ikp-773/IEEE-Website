@@ -633,6 +633,9 @@ section.team-agileinfo {
   -ms-background-size: cover;
   position: relative;
 }
+#recentEvents{
+  background-color: black;
+}
 
 .jarallax {
   position: relative;
