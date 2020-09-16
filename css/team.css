@@ -1,7 +1,6 @@
-#team{
-   background-image: url(../images/t.jpg);
+.team1{
+   background-image: url(../images/WP_Encrusted_X_-2560x1440_00000.jpg);
 }
-
 .view-seventh img {
    -webkit-transition: all 0.5s ease-out;
    -moz-transition: all 0.5s ease-out;

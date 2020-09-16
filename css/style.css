@@ -156,7 +156,9 @@ section.banner-w3ls button.btn.btn-default {
   color: #fff;
   background-color: #ea3c56;
 }
-
+.w3l_head1{
+  padding: 50px;
+}
 .clearfix:before,
 .clearfix:after {
   content: " ";
@@ -170,13 +172,11 @@ section.banner-w3ls button.btn.btn-default {
 .clearfix {
   *zoom: 1;
 }
-
+.cnt-block equal-hight{
+  padding: 10px;
+}
 .fl {
   float: left;
-}
-
-.row {
-  width: 100%;
 }
 
 .grid12 {
