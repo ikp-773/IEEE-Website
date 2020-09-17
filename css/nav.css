@@ -1,10 +1,10 @@
 /* Container needed to position the button. Adjust the width as needed */
 .imagges{
-	background-color: rgba(0, 0, 0, 0.9);
+	background-color: black;
+	backdrop-filter: blur(34px);
 	position: relative;
 	width: 100%;
   }
-  
   /* Make the image responsive */
   .imagges img {
 	width: 100%;

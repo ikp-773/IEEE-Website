@@ -30,6 +30,5 @@ p {
 }
 
 #report1920, #report1819, #report1718 {
-  background-image: url('../images/annualReport.gif');
-  backface-visibility: hidden;
+ background-color: black;
 }

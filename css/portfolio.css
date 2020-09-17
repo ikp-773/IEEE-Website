@@ -8,7 +8,12 @@
 	font-weight: normal;
 	font-style: normal;
 } /* Made with http://icomoon.io/app */
-
+.img-responsive1{
+	border-color: black;
+}
+#portfolio{
+	background-color: black;
+}
 /* General style */
 .grid-gallery ul {
 	list-style: none;
@@ -239,7 +244,7 @@ span.nav-close:before {
 	top: 0;
 	width: 16px;
 	height: 16px;
-	border: 1px solid #fff;
+	border: 1px solid rgb(3, 2, 2);
 	text-align: center;
 	line-height: 14px;
 	font-size: 12px;
