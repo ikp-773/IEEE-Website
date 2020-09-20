@@ -52,7 +52,7 @@
 	background:#fff;
 	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
 	filter:alpha(opacity=20);
-	background:rgba(0,0,0,.5);
+	background:rgba(134, 113, 113, 0.5);
 	z-index:6;
 }
 .pogoSlider-progressBar-duration{
