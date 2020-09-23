@@ -6,3 +6,9 @@ body{
 .gap{
 border-spacing: 3px;
 }
+
+p{
+  text-align: start;
+  font-family: Oxygen !important;
+  font-size: 50px;
+}

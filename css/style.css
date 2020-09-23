@@ -20,16 +20,21 @@ body a {
 
 p{
   text-align: center;
-  font-family: Merriweather;
+  font-family: Oxygen !important;
   font-size: 50px;
 }
 
 h3{
   text-align: center;
-  font-family: Dancing Script !important;
+  font-family: Comfortaa !important;
   font-size: 25px;
 }
 
+h2{
+  text-align: center;
+  font-family: Comfortaa !important;
+  font-size: 25px;
+}
 input[type="button"], input[type="submit"] {
   transition: 0.5s all;
   -webkit-transition: 0.5s all;
